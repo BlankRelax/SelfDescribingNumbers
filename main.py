@@ -16,4 +16,3 @@ if digitsarray[0] == no_of_zeros and digitsarray[1] == no_of_ones and digitsarra
     print("y")
 else:
     print("n")
-
